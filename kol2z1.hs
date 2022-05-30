@@ -1,0 +1,1 @@
+szescian = map (\x -> x*x*x) [0..13]

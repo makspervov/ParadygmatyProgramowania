@@ -1,0 +1,1 @@
+coTrzecia = ['c','f'..'z']
